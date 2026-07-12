@@ -5,7 +5,6 @@ __pycache__/
 .env.local
 
 # Large dataset files (>20MB) excluded from version control
-hw_6/train-109924-d0d60f.csv
 hw_6/catboost_info/
 hw_11/creditcard.csv
 hw_20/data/
