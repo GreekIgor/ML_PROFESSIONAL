@@ -1,0 +1,12 @@
+# Секреты
+.env
+.env.local
+
+# Артефакты обучения
+outputs/
+**/rubert_ckpt/
+**/rut5_ckpt/
+**/__pycache__/
+*.pt
+*.bin
+*.safetensors
